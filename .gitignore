@@ -1,0 +1,16 @@
+*.env
+
+*.log
+*.pot
+*.pyc
+
+__pycache__/
+
+.idea/
+
+venv/
+.venv/
+
+documents/
+
+*.json
